@@ -3,7 +3,7 @@
         "Author": "DL",
         "Name": "DL Gamba Client",
         "Description": "DL Gamba Client",
-        "InternalName": "DLGamba",
+        "InternalName": "DLGambaClient",
         "AssemblyVersion": "1.0.0.0",
         "RepoUrl": "https://github.com/byteknown/DL-gamba-Client/",
         "ApplicableVersion": "any",
