@@ -1,0 +1,23 @@
+[
+    {
+        "Author": "DL",
+        "Name": "DL Gamba Client",
+        "Description": "DL Gamba Client",
+        "InternalName": "DLGamba",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/byteknown/DL-gamba-Client/",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "minigames",
+            "discord"
+        ],
+        "DalamudApiLevel": 9,
+        "DownloadLinkInstall": "https://github.com/byteknown/DL-gamba-Client/raw/main/DLGamba/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/byteknown/DL-gamba-Client/raw/main/DLGamba/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/byteknown/DL-gamba-Client/raw/main/DLGamba/latest.zip",
+        "LastUpdated": "10112023"
+    }
+
+]
